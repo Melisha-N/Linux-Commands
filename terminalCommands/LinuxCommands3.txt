@@ -1,0 +1,110 @@
+    1  ls
+    2  git.txt
+    3  cd connect_git
+    4  cd bin
+    5  cd src
+    6  rm -rf bin
+    7  cat bin
+    8  git init
+    9  git add bin
+   10  ls
+   11  touch firstexample.txt
+   12  nano firsteg.txt
+   13  cat firsteg.txt
+   14  ls --help
+   15  ls -a
+   16  git add firsteg.txt
+   17  mkdir Wolken-Mel
+   18  ls Wolken-Mel
+   19  cd Wolken-Mel
+   20  nano mel.txt
+   21  ls
+   22  cat mel.txt
+   23  git init
+   24  git add mel.txt
+   25  git commit -m "Melisha Github"
+   26  git branch -M main
+   27  git remote add origin https://github.com/Melisha-N/Example-wolken.git
+   28  git push -u origin main
+   29  git init
+   30  git add src/ pom.xml .project
+   31  git add src/
+   32  git add .project
+   33  git commit -m "Adding : jdbc-connection"
+   34  git branch -M main
+   35  git remote add origin https://github.com/Melisha-N/JDBC-Connnection-Eg-Prison.git
+   36  git push -u origin main
+   37  git add src/ .project
+   38  git commit -m "Modify:"
+   39  git init
+   40  git add src/
+   41  git add .project
+   42  git commit -m "Adding:Exception"
+   43  git branch -M main
+   44  git remote add origin https://github.com/Melisha-N/Exception-Pub.git
+   45  git push -u origin main
+   46  clear
+   47  git add src/
+   48  git add .project
+   49  git commit -m "Modify: Exception"
+   50  git push -u origin main
+   51  get init
+   52  git add src/
+   53  git init
+   54  git add src/
+   55  git add .project
+   56  git add pom
+   57  git add pom.xml
+   58  git commit -m "Adding:Common-module-login-code"
+   59  git branch -M main
+   60  git remote add origin https://github.com/Melisha-N/common-module-login.git
+   61  git push -u origin main
+   62  git init
+   63  git add src/
+   64  git commit -m "Modifying: wriiten javascript validation in .js file"
+   65  git push -u origin main
+   66  git init
+   67  git add Test1.txt
+   68  git commit -m "Adding-TestCode1"
+   69  git branch -M main
+   70  git remote add origin https://github.com/Melisha-N/Test-Codes.git
+   71  git push -u origin main
+   72  rm Test1
+   73  mkdir melisha
+   74  cd -
+   75  touch el
+   76  ls
+   77  nano linux.txt
+   78  cat linux.txt
+   79  cd ~ melisha
+   80  cd ~melisha
+   81  touch li.txt
+   82  cd /
+   83  melisha
+   84  ls
+   85  cat data.csv
+   86  cat data.csv | grep -i captain
+   87  export Mell=hey
+   88  echo $Mell
+   89  cat data.csv | grep -i captain | awk '{print $1}'
+   90  cat data.csv | grep -i captain | awk -F E '{print $1}'
+   91  cat data.csv | grep -i captain | awk -F o '{print $1}'
+   92  env | grep path |awk -F :'{print $1}'
+   93  env | grep path |awk -F : '{print $1}'
+   94  env | grep path |awk -F : '{print $3}'
+   95  nano displayAllPDFs.sh
+   96  ./displayAllPDFs.sh
+   97  ./displayAllPDFs.sh
+   98  nano displayAllPDFs.sh
+   99  ./displayAllPDFs.sh
+  100  nano displayAllPDFs.sh
+  101  ./displayAllPDFs.sh
+  102  nano displayAllPDFs.sh
+  103  ./displayAllPDFs.sh
+  104  nano displayAllPDFs.sh
+  105  ./displayAllPDFs.sh
+  106  nano displayAllPDFs.sh
+  107  ./displayAllPDFs.sh
+  108  nano displayAllPDFs.sh
+  109  ./displayAllPDFs.sh
+  110  history > LinuxCommands3.txt
